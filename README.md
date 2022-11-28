@@ -3,7 +3,7 @@
 I'm Susanna, a physics and EECS student at UC Berkeley! I'm interested in the intersection of those two fields, from neural networks in medical imaging to electronic systems for rockets. You can find some of those things here:   
 
 ##### Research 
-- Deep Learning Methods for Medical Image Translation - Created and trained models based on [Cycle GAN] (https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [vision transformers] (https://github.com/google-research/vision_transformer) to classify magnetic resonance (MR) and computed tomography (CT) images by different anatomical and statistical features.
+- **Deep Learning Methods for Medical Image Translation**  - Created and trained models based on [Cycle GAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [vision transformers](https://github.com/google-research/vision_transformer) to classify magnetic resonance (MR) and computed tomography (CT) images by different anatomical and statistical features.
 
 #### Rocketry 
 - LE2 Test Stand Avionics System 
