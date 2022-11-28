@@ -11,7 +11,7 @@ I'm Susanna, a physics and EECS student at UC Berkeley! I'm interested in the in
 #### Class Projects
 - Maze Generating Video Game 
 - Robotic Tabletop Football Goalie 
-- Schrödinger's Equation Visualization
+- [**Schrödinger's Equation Visualization**](https://github.com/sijinwnag/group5-phys77) - Final project for a computational physics course, creating a series of animations representing the classic "particle in a box" problem from quantum mechanics in 2D and 3D. 
 
 <!--
 **susanna-m-weber/susanna-m-weber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
