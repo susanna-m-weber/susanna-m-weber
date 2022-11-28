@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Susanna, a physics and EECS student at UC Berkeley! I'm interested in the intersection of those two fields, from applications of neural networks in medical imaging to electronic systems for rockets. You can find some of those things here:   
+
 <!--
 **susanna-m-weber/susanna-m-weber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+'
