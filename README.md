@@ -6,7 +6,7 @@ I'm Susanna, a physics and EECS student at UC Berkeley! I'm interested in the in
 - **Deep Learning Methods for Medical Image Translation**  - Created and trained models based on [Cycle GAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [vision transformers](https://github.com/google-research/vision_transformer) to classify magnetic resonance (MR) and computed tomography (CT) images by different anatomical and statistical features.
 
 #### Rocketry 
-- LE2 Test Stand Avionics System 
+- **LE2 Test Stand Avionics System** - A system of multiple boards used by [UC Berkeley Space Technologies and Rocketry (STAR)](https://stars.berkeley.edu/) for sensing and actuation during hotfire of a liquid engine test system, LE2. 
 
 #### Class Projects
 - Maze Generating Video Game 
