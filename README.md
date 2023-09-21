@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Susanna, a physics and EECS student at UC Berkeley! I'm interested in the intersection of those two fields, from neural networks in medical imaging to electronic systems for rockets. You can find some of those things here:   
+I'm Susanna, I'm a biomedical engineering PhD student at Columbia. I studied physics and EECS at UC Berkeley, and I'm interested in the intersection of those three fields, from neural networks in medical imaging to electronic systems for rockets. You can find some of those things here:   
 
 #### ⚛️ Research 
 - **Deep Learning Methods for Medical Image Translation**  - Created and trained models based on [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [vision transformers](https://github.com/google-research/vision_transformer) to classify magnetic resonance (MR) and computed tomography (CT) images by different anatomical and statistical features.
