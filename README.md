@@ -9,6 +9,7 @@ I'm Susanna; I'm a biomedical engineering PhD student at Columbia. I studied phy
 - [**LE2 Test Stand Avionics System**](https://github.com/calstar/le2-avionics) - A system of multiple boards used by [UC Berkeley Space Technologies and Rocketry (STAR)](https://stars.berkeley.edu/) for sensing and actuation during hotfire of a liquid engine test system, LE2. 
 
 #### 💻 Class Projects 
+- [**Cardiac Segmentation for MRI**](https://github.com/susanna-m-weber/cardiac_segmentation) - Using an Attention U-Net to segment the endocardium and epicardium in MR scans 
 - [**Robotic Foosball Goalie**](https://github.com/susanna-m-weber/106-final-proj) - A robotics project using computer vision and an ESP32 microcontroller to track the ball and control the goalie in a game of tabletop soccer. 
 - [**Maze Generating Video Game**](https://github.com/susanna-m-weber/maze_game) - A 2D video game where the player navigates a randomly generated maze while being chased by a pursuing avatar that can end the game. Players can find power-ups to navigate the maze more easily, and win by collecting a key and making it to the maze exit.
 - [**Schrödinger's Equation Visualization**](https://github.com/sijinwnag/group5-phys77) - Final project for a computational physics course, creating a series of animations representing the classic "particle in a box" problem from quantum mechanics in 2D and 3D. 
